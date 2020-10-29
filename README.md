@@ -1,2 +1,2 @@
 # speed-radar
-Speed radar is a C++ micro performance measurement tool which helps you analyze, locate performance issue in your project.
+Speed radar is a C++ micro performance benchmark framework which helps you analyze, locate and improve performance issue in your C++ project.
