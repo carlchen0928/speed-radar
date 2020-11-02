@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Build directories
+gcc-debug/
+gcc-release
